@@ -1,1 +1,1 @@
-Test repositiry
+Test repository
